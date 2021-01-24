@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![Inspiration](https://github.com/plunex/elite_102_flutter/tree/mike/inspiration/FoodApp.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
