@@ -16,3 +16,4 @@ Made this UI for fun!..
 
 ## 🤓 Author(s)
 * [**Charles042**](https://github.com/Charles042)
+* [**Bukunmi Aluko**](https://github.com/bukunmialuko)
